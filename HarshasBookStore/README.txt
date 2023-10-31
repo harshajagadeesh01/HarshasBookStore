@@ -30,5 +30,5 @@
 
 16:40 Installed Microsoft.EntityFramework.Core.Relational and Core.SqlServer packages to .DataAccess project and deleted the migration folder
 
-18:45 Created a NEW MVC App and reacreated all the steps all over again from the beginning because i had chosen the option "place project and solution in the same directory" which was causing an error
+20:45 Created a NEW MVC App and reacreated all the steps all over again from the beginning because i had chosen the option "place project and solution in the same directory" which was causing an error
 when trying to open the project files from github
