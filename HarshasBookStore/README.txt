@@ -32,3 +32,7 @@
 
 20:45 Created a NEW MVC App and reacreated all the steps all over again from the beginning because i had chosen the option "place project and solution in the same directory" which was causing an error
 when trying to open the project files from github
+
+2023-10-31
+
+9:45 Installed EntityFramework and Nuget packages to DataAccess project
