@@ -35,4 +35,4 @@ when trying to open the project files from github
 
 2023-10-31
 
-9:45 Installed EntityFramework and Nuget packages to DataAccess project
+9:45 Installed EntityFramework and Nuget packages to DataAccess project...
