@@ -42,3 +42,7 @@ when trying to open the project files from github
 10:50 Corrected the default reference to ErrorViewModel in Error.cshtml, fixed all errors and ran the application
 
 11:20 Fixed all the errors, build was succesful and the output is working fine...
+
+12:20 Added Customers area to Areas, moved HomeController.cs to Area>Customer>Controller folder and moved Views>Home folder
+
+12:30 Copied ViewImport and ViewStart to Customer Area and ran the application and the output is working fine
