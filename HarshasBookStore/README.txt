@@ -46,3 +46,7 @@ when trying to open the project files from github
 12:20 Added Customers area to Areas, moved HomeController.cs to Area>Customer>Controller folder and moved Views>Home folder
 
 12:30 Copied ViewImport and ViewStart to Customer Area and ran the application and the output is working fine
+
+12:50 Added new Admin area in Areas, Added proper view files and deleted Data and Models folder
+
+12:55 Deleted the main controllers folder and finished part-1 of the assignment 2
