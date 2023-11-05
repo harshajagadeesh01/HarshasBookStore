@@ -36,3 +36,9 @@ when trying to open the project files from github
 2023-10-31
 
 9:45 Installed EntityFramework and Nuget packages to DataAccess project...
+
+10:45 Moved Models folder to Books.Models and renamed folder to ViewModels and changed ErrorViewModels.cs namespace
+
+10:50 Corrected the default reference to ErrorViewModel in Error.cshtml, fixed all errors and ran the application
+
+11:20 Fixed all the errors, build was succesful and the output is working fine...
