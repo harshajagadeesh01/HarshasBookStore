@@ -50,3 +50,15 @@ when trying to open the project files from github
 12:50 Added new Admin area in Areas, Added proper view files and deleted Data and Models folder
 
 12:55 Deleted the main controllers folder and finished part-1 of the assignment 2
+
+2023-11-05
+
+20:21 Started Working on the Part-2 of the Assignment 2
+
+20:30 Made modifications to the appsettings.json
+
+20:35 Using Nuget PM Console added a new migration with the migration name 'add-migration AddDefaultIdentityMigration'
+
+20:40 Updated database in the packet manager console
+
+20:50 Added a new class called Category.cs to .Models project and ran the PM command 'add-migration AddCategoryToDb'
