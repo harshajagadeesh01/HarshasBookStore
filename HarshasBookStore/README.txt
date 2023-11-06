@@ -68,3 +68,7 @@ when trying to open the project files from github
 13:33  added a method public DbSet<Category> Categories { get; set; } and using HarshasBooks.Models; to ApplicationDbContext.cs file
 
 13:43 Re-run the add-migration command 'add-migration AddCategoryToDb', resolved duplication error and updated the database
+
+13:47 Started Build the project(Part 2) 2.2 Repository section
+
+14:10 Added IRepository.cs file inside IRepository folder and modified the code so that it can be used to CRUD operations
