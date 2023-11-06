@@ -62,3 +62,9 @@ when trying to open the project files from github
 20:40 Updated database in the packet manager console
 
 20:50 Added a new class called Category.cs to .Models project and ran the PM command 'add-migration AddCategoryToDb'
+
+2023-11-06
+
+13:33  added a method public DbSet<Category> Categories { get; set; } and using HarshasBooks.Models; to ApplicationDbContext.cs file
+
+13:43 Re-run the add-migration command 'add-migration AddCategoryToDb', resolved duplication error and updated the database
