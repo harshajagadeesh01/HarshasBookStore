@@ -72,3 +72,5 @@ when trying to open the project files from github
 13:47 Started Build the project(Part 2) 2.2 Repository section
 
 14:10 Added IRepository.cs file inside IRepository folder and modified the code so that it can be used to CRUD operations
+
+14:20 Created Repository.cs file and modified the code to create the constructors and dependency injection
