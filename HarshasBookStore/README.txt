@@ -74,3 +74,12 @@ when trying to open the project files from github
 14:10 Added IRepository.cs file inside IRepository folder and modified the code so that it can be used to CRUD operations
 
 14:20 Created Repository.cs file and modified the code to create the constructors and dependency injection
+
+2023-11-10
+
+14:30 Continued working on the the project
+
+14:39 Created individual repos for category and all potential models and created the following files: CategoryRepository.cs and ICategoryRepository.cs
+
+working on CategoryRepository.cs
+
