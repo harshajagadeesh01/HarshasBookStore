@@ -85,3 +85,9 @@ working on CategoryRepository.cs
 
 13:00 Finished implementing interface and modifying CategoryRepository.cs
 
+14:00 Installed the Nuget package for Dapper in ISP_Call.cs
+
+14:23 Included all the the required methods in the ISP_Call.cs file
+
+15:20 Working on Sp_Call.cs (coding part is not fully finished yet) on slide 11
+
