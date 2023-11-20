@@ -83,3 +83,5 @@ when trying to open the project files from github
 
 working on CategoryRepository.cs
 
+13:00 Finished implementing interface and modifying CategoryRepository.cs
+
