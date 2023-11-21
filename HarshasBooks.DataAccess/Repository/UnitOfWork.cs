@@ -12,11 +12,11 @@ namespace HarshasBooks.DataAccess.Repository
 
 
     
-    public class UnitOtWork : IUnitOfWork  // make the method public to access the class
+    public class UnitOfWork : IUnitOfWork  // make the method public to access the class
     {
         private readonly ApplicationDbContext _db;  // the using statement
 
-        public UnitOtWork(ApplicationDbContext db)   // constructor to use DI and inject in to the repositories
+        public UnitOfWork(ApplicationDbContext db)   // constructor to use DI and inject in to the repositories
         {
             _db = db;
             Category = new CategoryRepository(_db);

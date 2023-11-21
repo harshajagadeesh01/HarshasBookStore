@@ -95,3 +95,5 @@ working on CategoryRepository.cs
 
 23:30 Finished modifying UnitOfWork.cs
 
+00:55 Finished making changes to Startup.cs and started with (Part 2) 2.3 Category CRUD
+
