@@ -91,3 +91,5 @@ working on CategoryRepository.cs
 
 15:20 Working on Sp_Call.cs (coding part is not fully finished yet) on slide 11
 
+21:29 Updated the implementation of ISP_Call interface and finished modifying SP_Call.cs
+
