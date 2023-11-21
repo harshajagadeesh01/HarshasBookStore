@@ -97,5 +97,7 @@ working on CategoryRepository.cs
 
 00:55 Finished making changes to Startup.cs and started with (Part 2) 2.3 Category CRUD
 
-1:40 Added a new mvc controller named CategoryController.cs inside Areas/Admin/Controllers and finished modifying CategoryController.cs file 
+1:40 Added a new mvc controller named CategoryController.cs inside Areas/Admin/Controllers and finished modifying CategoryController.cs file
+
+10:10 Added and linked Category section the navigation of _Layout.cshtml
 
