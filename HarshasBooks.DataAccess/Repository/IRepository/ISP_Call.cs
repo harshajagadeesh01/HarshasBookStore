@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace HarshasBooks.DataAccess.Repository.IRepository
 {
-    interface ISP_Call : IDisposable 
+    public interface ISP_Call : IDisposable 
     {
         // e.g first column or first row in the result set
         T Single<T>(string procedurename, DynamicParameters param = null);
