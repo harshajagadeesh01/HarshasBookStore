@@ -103,5 +103,7 @@ working on CategoryRepository.cs
 
 06:14 Moved Category inside the dropdown menu by modifying the code in _Layout.cshtml
 
+06:27 modified index.cshtml to add icons in category section from Font Awesome
+
 
 
