@@ -101,3 +101,7 @@ working on CategoryRepository.cs
 
 10:10 Added and linked Category section the navigation of _Layout.cshtml
 
+06:14 Moved Category inside the dropdown menu by modifying the code in _Layout.cshtml
+
+
+
